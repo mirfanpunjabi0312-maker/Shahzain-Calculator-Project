@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc: All-in-One Professional Calculator Suite",
+  "description": "A comprehensive collection of 50+ fully functional calculators for health, math, finance, tech, and education, featuring glassmorphism UI, real-time results, and history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Analysis", "Mathematical Computation", "Educational Resource"]
+}
